@@ -638,14 +638,14 @@
           <div class="video-wrapper">
             <!-- ⚠ Reemplazá el src por el link de tu video en YouTube si cambiás -->
             <iframe
-              src="https://www.youtube.com/embed/SJCvhQZMuT4"
+              src="https://youtu.be/SJCvhQZMuT4"
               title="Presentación del Método Persaltum"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowfullscreen
             ></iframe>
           </div>
           <div class="video-caption">
-            En este video, <span class="highlight">Pablo Galli</span> te muestra paso a paso el sistema que vas a aplicar con el Método Persaltum para dejar de adivinar cómo vender online.
+            En este video, <span class="highlight">Pablo Galli</span> te muestra el mótivo de implementar un sistema para vender en redes. El Método Persaltum para dejar de improvisar y covertirte en infoproductor. Crea tu negocio digital y viví de tus conocimientos.
           </div>
         </div>
       </section>
@@ -770,7 +770,7 @@
               <div class="faq-item">
                 <div class="faq-q">¿Qué pasa con los productos adicionales (upsells)?</div>
                 <div class="faq-a">
-                  Dentro del checkout de Hotmart vas a ver opciones extra (como el acceso al Módulo 1 completo y otros
+                  Dentro del checkout de Hotmart vas a ver opciones extra (como los 4 mini cursos premium y otros
                   materiales para acelerar tus resultados). Son opcionales. Podés aceptar o no, y seguirás teniendo el
                   Método Persaltum igual.
                 </div>
